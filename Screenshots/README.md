@@ -1,1 +1,1 @@
-### This contain screenshot of this project
+### This contain screenshots of this project
