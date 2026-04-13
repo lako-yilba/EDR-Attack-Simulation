@@ -30,7 +30,8 @@ Sysmon was installed to capture detailed system activity.
 
 
 📸 **Sysmon Logs**
-![Sysmon Logs](../screenshots/sysmon-logs.png)
+![Sysmon Logs](../screenshots/sysmon_logs.png)
+![Sysmon Logs](../screenshots/sysmon_agent.png)
 
 ---
 
@@ -60,7 +61,7 @@ sudo bash wazuh-install.sh -a
 
 ### ⚠️ Issue Faced
 
-During installation, the setup failed due to low disk space.
+During wazuh installation, the setup failed due to low disk space.
 
 ### 🔧 Fix
 
@@ -71,40 +72,6 @@ After fixing storage, installation completed successfully.
 
 ---
 
-### ✅ Verification
-
-- Wazuh dashboard accessed via browser  
-
-📸 **Wazuh Dashboard**
-![Wazuh Dashboard](../screenshots/wazuh-dashboard.png)
-
----
-
-## 🔗 Agent Setup
-
-The Wazuh agent was installed on Windows and connected to the server.
-
-### ✅ Verification
-
-- Agent successfully connected  
-
-📸 **Agent Connected**
-![Agent](../screenshots/wazuh-agent.png)
-
----
-
-## 🔄 Sysmon + Wazuh Integration
-
-Sysmon logs were forwarded to Wazuh for analysis.
-
-### ✅ Verification
-
-- Sysmon events visible in Wazuh  
-
-📸 **Sysmon in Wazuh**
-![Sysmon Wazuh](../screenshots/sysmon-wazuh.png)
-
----
 
 ## 📊 Final Status
 
