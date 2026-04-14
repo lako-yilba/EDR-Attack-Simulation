@@ -30,8 +30,8 @@ Sysmon was installed to capture detailed system activity.
 
 
 📸 **Sysmon Logs**
-![Sysmon Logs](../screenshots/sysmon_logs.png)
-![Sysmon Logs](../screenshots/sysmon_agent.png)
+![Sysmon Logs](../Screenshots/sysmon_logs.png)
+![Sysmon Logs](../Screenshots/sysmon_agent.png)
 
 ---
 
