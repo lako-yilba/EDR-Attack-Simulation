@@ -66,7 +66,7 @@ This confirms that weak passwords can be easily compromised using brute force te
 
 ---
 
-## ⚠️ Additional Observation (Defense Behavior)
+## ⚠️ Additional Observation
 
 When attempting the attack using a larger wordlist (`rockyou.txt`), the SSH service started rejecting connections.
 
