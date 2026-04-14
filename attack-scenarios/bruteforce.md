@@ -94,7 +94,7 @@ These logs clearly indicate repeated authentication failures.
 
 ---
 
-![Windows Logs](../Screenshots/bf_logs.png)
+![Windows Logs](../Screenshots/bf_hlogs.png)
 
 ---
 
