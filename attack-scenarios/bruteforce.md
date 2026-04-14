@@ -44,7 +44,6 @@ hydra -l testuser -P /home/kali/brte.txt ssh://<IP>
 
 ---
 
-📸 **Hydra Attack Running**
 ![Hydra Attack](../Screenshots/bf_hydra.png)
 
 ---
@@ -63,7 +62,6 @@ This confirms that weak passwords can be easily compromised using brute force te
 
 ---
 
-📸 **Successful Password Discovery**
 ![Hydra Success](../Screenshots/bf_success.png)
 
 ---
@@ -96,7 +94,6 @@ These logs clearly indicate repeated authentication failures.
 
 ---
 
-📸 **Windows Event Logs (Failed Logins)**
 ![Windows Logs](../Screenshots/bf_logs.png)
 
 ---
