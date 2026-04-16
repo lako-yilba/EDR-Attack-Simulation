@@ -59,7 +59,7 @@ set STARTUP SYSTEM
 run
 ```
 
-![Persistence Module Execution](screenshots/persistance.png)
+![Persistence Module Execution](../Screenshots/persistance.png)
 
 
 ---
