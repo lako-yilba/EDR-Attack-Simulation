@@ -1,4 +1,4 @@
-# 🔵 Reverse Shell (Execution Phase)
+# 🔵 Reverse Shell
 
 ## 📌 Overview
 
