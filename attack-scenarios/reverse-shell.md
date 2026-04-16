@@ -45,7 +45,7 @@ set LPORT 4444
 run
 ```
 
-![msf](../screenshots/msf1.png)
+![msf](../Screenshots/msf1.png)
 
 ---
 
@@ -62,7 +62,7 @@ The payload (`shell.exe`) was transferred to the Windows machine and executed.
 ---
 
 
-![Payload Execution](../screenshots/msf3.png)
+![Payload Execution](../Screenshots/msf3.png)
 
 ---
 
@@ -81,7 +81,7 @@ This confirms that the attacker gained remote control over the system.
 ---
 
 📸 **Meterpreter Session**
-![Meterpreter](../screenshots/ms4.png)
+![Meterpreter](../Screenshots/ms4.png)
 
 ---
 
