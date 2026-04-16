@@ -62,7 +62,7 @@ The payload (`shell.exe`) was transferred to the Windows machine and executed.
 ---
 
 
-![Payload Execution](../Screenshots/msf3.png)
+![Payload Execution](../Screenshots/msf2.png)
 
 ---
 
