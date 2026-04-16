@@ -76,7 +76,7 @@ This confirms that sensitive authentication data can be accessed by attackers.
 ---
 
 📸 **Credential Dump Output**
-![Credentials](../screenshots/cd.png)
+![Credentials](../Screenshots/cd.png)
 
 ---
 
