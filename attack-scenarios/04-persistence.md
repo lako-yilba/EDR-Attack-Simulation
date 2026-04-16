@@ -104,8 +104,8 @@ Wazuh can detect persistence activity through:
 - **Suspicious registry modifications** — monitored via Sysmon Event ID 13
 - **Process execution logs** — Windows Event ID **4688**
 - **Autorun behavior monitoring** — flagged as anomalous startup entries
-
-                                          ---
+  
+---
 
 ## 🧹 Mitigation & Removal
 
