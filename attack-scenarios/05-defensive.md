@@ -51,7 +51,7 @@ wevtutil cl Security
 
 ---
 
-📸 **Log Clearing Command**
+
 ![Log Clear](../Screenshots/msf3.png)
 
 ---
