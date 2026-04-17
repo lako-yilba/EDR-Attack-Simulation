@@ -49,7 +49,7 @@ The objective was to understand attacker behavior across different stages and ho
   
 ![Wazuh Alert](../Screenshots/bf_hlogs.png)
 ![Wazuh Alert](../Screenshots/alert1.png)
-![MITRE Mapping](../Screenshots/mitre-mapping.png)
+
 ---
 
 ## 🔵 Stage 2 — Execution (Reverse Shell)
@@ -136,7 +136,23 @@ The objective was to understand attacker behavior across different stages and ho
 - Some credential dumping methods were partially blocked  
 - Not all events triggered automatic MITRE mapping in Wazuh  
 - Detection depends on proper logging configuration  
+![MITRE Mapping](../Screenshots/mitre-mapping.png)
 
+---
+## 🧹 Post-Incident Cleanup
+
+After completing the simulation, cleanup actions were performed to restore the lab environment.
+
+### 🔧 Actions Performed
+
+- Cleared Windows Security logs to simulate attacker defense evasion  
+- Removed test user accounts created for brute force testing  
+- Deleted payload files used during reverse shell execution  
+- Verified system returned to normal state  
+
+### 🧠 Note
+
+These actions were performed only within a controlled lab environment for educational purposes.
 ---
 
 ## 🧠 Key Learnings
