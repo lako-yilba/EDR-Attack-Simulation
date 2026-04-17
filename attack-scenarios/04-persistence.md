@@ -145,4 +145,3 @@ This phase demonstrated how attackers establish **long-term, reboot-persistent a
 
 ---
 
-*Part of the EDR + Attack Simulation Home Lab — MITRE ATT&CK Kill Chain Documentation*
