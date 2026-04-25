@@ -18,19 +18,6 @@ The objective was to understand attacker behavior across different stages and ho
 
 ---
 
-## ⚔️ Attack Timeline
-
-| Time | Activity |
-|------|---------|
-| 10:00 | Brute force attack started |
-| 10:03 | Password successfully cracked |
-| 10:05 | Reverse shell established |
-| 10:07 | Credential dumping performed |
-| 10:10 | Persistence established |
-| 10:12 | Logs cleared |
-
----
-
 ## 🔴 Stage 1 — Initial Access (Brute Force)
 
 - Tool Used: Hydra  
